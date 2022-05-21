@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zman008
+- 👋 Hi, I’m Sami
 - 👀 I’m interested in python, web devolopment 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything 
